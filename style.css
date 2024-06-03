@@ -1,0 +1,28 @@
+p {
+    color: red;
+    background-color: rgb(255, 169, 169);
+    background-size: 4cm;
+}
+*{
+    color: black;
+    padding: 1cm;
+}
+header {
+    color: green;
+    background-color: aliceblue;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    background-size: 100%;
+    height: 1cm;
+    padding: 1%;
+}
+body{
+    color: black;
+}
+head{
+    color: black;
+}
+html {
+    color: black;
+}
